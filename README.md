@@ -14,15 +14,11 @@ A sleek and simple weather forecast web application built with **React.js**. Get
 
 ---
 
-## 📸 Screenshots
 
-> *(You can add screenshots here by uploading in the repo or using a hosted image link)*
-
----
 
 ## 🚀 Live Demo
 
-[Click here to see it live](#) *(Replace with your deployed URL if hosted on Vercel/Netlify)*
+[Click here to see it live](#) [*(Replace with your deployed URL if hosted on Vercel/Netlify)*](https://forecastify-ebon.vercel.app/)
 
 ---
 
